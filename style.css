@@ -159,6 +159,9 @@ align-items: center
     width: 50%;
     /* border: 1px solid green; */
 }
+.golimg2{
+    display: none;
+}
 .golimg{
     width: 700px;
     margin-left: 20px;
