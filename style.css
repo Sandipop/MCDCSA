@@ -352,3 +352,27 @@ align-items: center
     }
   }
   
+
+
+
+
+
+
+  /* notce board css */
+
+  .notice-h2{
+    top: 120px;
+    left: 300px;
+    font-size: 50px;
+    font-weight: 500;
+    color: #fff;
+
+  }
+  .notice-h1{
+      position: absolute;
+    top: 300px;
+    left: 250px;
+    font-size: 200px;
+    font-weight: 500;
+    color: #fff;
+  }
