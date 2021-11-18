@@ -49,7 +49,7 @@
 
     .info{
         width: 100%;
-        height: 160vh;
+        height: 150vh;
         /* border: 1px solid red; */
     }
     .infoimg{
@@ -80,7 +80,7 @@
 
     .goal{
         width: 100%;
-        height: 120vh;
+        height: 110vh;
         display: block;
     }
     .goal-img{
