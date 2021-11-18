@@ -1,4 +1,4 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 640px) {
 
     .nav-right{
         display: flex;
@@ -25,8 +25,8 @@
 
     .bnnr-h1{
         
-        top: 200px;
-        left: 30px;
+        top: 150px;
+        left: 10px;
         font-size: 50px;
         color: #fff;
         text-align: center;
@@ -41,15 +41,15 @@
     
     }
     .bnnr-btn{
-        top: 450px;
-    left: 150px;
+        top: 400px;
+    left: 120px;
 
     }
 
 
     .info{
         width: 100%;
-        height: 135vh;
+        height: 160vh;
         /* border: 1px solid red; */
     }
     .infoimg{
@@ -73,14 +73,14 @@
         margin-top: 200px;
     }
     .info-btn{
-        margin-left: 150px;
+        margin-left: 120px;
     }
 
 
 
     .goal{
         width: 100%;
-        height: 100vh;
+        height: 120vh;
         display: block;
     }
     .goal-img{
@@ -90,17 +90,21 @@
     }
     .golimg{
         width: 90%;
-        margin-top: 8px;
+        margin-top: 15px;
+    }
+    .golimg2{
+        display: block;
     }
     .goal-txt{
         width: 100%;
-        height: 38%;
+        height: 40%;
         /* border: 1px solid blue; */
         margin-left: 0;
         border-radius: 5px;
     }
     .goal-p{
         font-size: 16px;
+        padding: 10px;
     }
     .goal-h1{
         font-size:40px ;
@@ -108,11 +112,11 @@
 
     .obj{
         width: 100%;
-        height: 110vh;
+        height: 145vh;
         /* border: 1px solid red; */
     }
     .obj-h1{
-        margin-top: 50px;
+        margin-top: 0px;
         font-size: 40px;
         margin-bottom: 20px;
     }
