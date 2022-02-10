@@ -51,7 +51,7 @@
         width: 100%;
         height: 130vh;
         margin-bottom: 0px;
-        border: 1px solid red;
+        /* border: 1px solid red; */
     }
     .infoimg{
         width: 100px;
