@@ -182,13 +182,13 @@
       padding: 0px;
       float: right;
       margin-right: 0px;
-      margin: 40px 20px 60px 0;
+      margin: 30px 20px 50px 0;
       transition: all 0.2s ease;
     }
     form .btn{
       height: 45px;
       width: 90%;
-      margin: 50px 0;
+      margin: 40px 0 0 25px;
   
     }
 
