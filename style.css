@@ -192,6 +192,29 @@
   
     }
 
+    form .textarea textarea{
+      height: 90%;
+      width: 90%;
+      outline: none;
+      color: rgb(0, 0, 0);
+      border: 1px solid rgb(255, 255, 255);
+      background: rgb(255, 255, 255);
+      padding: 10px;
+      font-size: 14px;
+      resize: none;
+    }
+    form .textarea1 textarea{
+      height: 90%;
+      width: 90%;
+      outline: none;
+      color: rgb(0, 0, 0);
+      border: 1px solid rgb(255, 255, 255);
+      background: rgb(255, 255, 255);
+      padding: 10px;
+      font-size: 14px;
+      resize: none;
+    }
+
 
   
   
